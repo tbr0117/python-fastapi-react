@@ -1,0 +1,9 @@
+{
+    "short_name": "React App",
+    "name": "My React App",
+    "icons": [ ],
+    "start_url": ".",
+    "display": "standalone",
+    "theam_color": "#000000",
+    "background_color": "#ffffff"
+}
