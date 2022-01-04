@@ -7,3 +7,5 @@ package-lock.json
 # backend
 backend/py-env-fastapi
 __pycache__
+.vscode
+launch.json
