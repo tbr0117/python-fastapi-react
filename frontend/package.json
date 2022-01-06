@@ -25,6 +25,9 @@
       "react-app"
     ]
   },
+  "moduleNameMapper": {
+    "^@/(.*)$": "<rootDir>/src/$1"
+  },
   "jest": {
     "transformIgnorePatterns": [
       "node_modules/(?!(@ui5|lit-html)).*\\.js$"
